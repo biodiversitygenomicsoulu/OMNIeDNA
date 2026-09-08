@@ -1,0 +1,2 @@
+* text=auto
+*.stl -text -diff -merge -filter
